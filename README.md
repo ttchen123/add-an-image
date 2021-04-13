@@ -12,3 +12,14 @@ This is a bullet list:
 * asterisks work too
 
 ## New section
+
+This is my work:
+
+- I 
+- don't
+- want
+- to 
+- do
+- hw
+
+finish
